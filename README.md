@@ -5,3 +5,5 @@
 
 Successfully created repo and pushed files to GitHub.
 
+Some additional changes to ensure that the SSH key is working correctly.
+
